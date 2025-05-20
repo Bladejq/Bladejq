@@ -122,5 +122,5 @@
 </p>
 
 
-> _"Keep learning. Build what you love."_  
+> _"Work Hard."_  
 > — Bladejq
