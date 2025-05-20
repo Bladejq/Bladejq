@@ -5,6 +5,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub!;I+love+learning+new+tech;Currently+working+on+tandau-store.kz;Let's+build+something+awesome!+" alt="Typing SVG" />
 </p>
 
+
+
+![GitHub contributions graph](https://i.imgur.com/WQXB665.gif)
 ---
 
 - 🔭 I’m currently working on: **[tandau-store.kz](https://tandau-store.kz)**
