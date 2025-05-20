@@ -2,7 +2,8 @@
 <h3 align="center">🎓 Beginner programmer & student from Kazakhstan 🇰🇿</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub!;I+love+learning+new+tech;Currently+working+on+tandau-store.kz;Let's+build+something+awesome!+" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Мамырдың+айлы+түні;Кеудеме+сіңді+көк+шөптің+түтіні" alt="Typing SVG" />
+
 </p>
 
 
@@ -26,15 +27,14 @@
 
 ### 🖥️ Frontend Stack
 
-<p>
-  <img src="https://camo.githubusercontent.com/3a3a3c6938b0c12f081936c58b02f4c07ab6d8e4abf070f8d51f68cb9c1522cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://camo.githubusercontent.com/1c9b1b692b2a7f0cfd206028e4c489d5c04bfb89f5bc64882cfdc9019a91fb1d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TAILWINDCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </p>
+
 
 ---
 
