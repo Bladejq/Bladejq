@@ -17,6 +17,7 @@
 - 🔭 I’m currently working on: **[tandau-store.kz](https://tandau-store.kz)**
 - 🌱 I’m learning: **PHP, Laravel, MySQL, Next.js**
 - 💻 Most of my projects are available at: [github.com/Bladejq/tauar](https://github.com/Bladejq/tauar)
+- 🌐 I have been programming for 2 years. I have studied different technologies. My favorite stack   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript"/>   <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 
 ---
 
