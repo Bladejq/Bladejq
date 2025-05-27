@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <img src="https://i.imgur.com/WQXB665.gif" alt="GitHub contributions graph" />
+  <img src="https://blog.mann-ivanov-ferber.ru/wp-content/uploads/2018/09/image6-1.gif" alt="GitHub contributions graph" />
 </div>
 
 
